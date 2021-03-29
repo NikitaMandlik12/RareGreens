@@ -60,7 +60,7 @@ Website link: www.greenvic.cf
 
 # Authors and Acknowledgment  
 Fei Ruan - Software Developer  
-Nikita Mandlik - Business Analyst  
+Nikita Mandlik - Business/Data Analyst  
 Bhuvana Mangati - Data Engineer  
 Zeren Li - Business Analyst  
 
